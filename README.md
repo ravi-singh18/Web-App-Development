@@ -34,3 +34,5 @@ Store the matched strings in a list.
 
 Pass the list of matched strings to the HTML template.
 Modify the HTML template to display the matched strings below the input form.
+
+8.(IMPORTANT) Deploy the application on AWS Cloud. LINK : http://35.173.183.234:5000
